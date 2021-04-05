@@ -1,6 +1,10 @@
 /* eslint-disable prettier/prettier */
 export default [
   {
+    name: 'Trọn bộ',
+    image: require('../../chapters/book6/h6.pdf'),
+  },
+  {
     name: '1',
     image: require('../../chapters/book6/h6_c1.pdf'),
   },

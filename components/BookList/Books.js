@@ -31,21 +31,29 @@ export default [
   {
     name: 'Harrypotter và chiếc cốc lửa',
     image: require('../../assets/harrypotter4.jpg'),
+    discription:
+      ' Harry Potter và chiếc cốc lửa mở đầu với câu chuyện giải đấu Quidditch Thế giới bị cắt ngang bởi những kẻ ủng hộ chúa tể Voldemort cùng những dấu hiệu của hắc ám ở khắp mọi nơi. Harry cũng ý thức được rằng kẻ mà ai cũng biết là ai đó đang dần lấy lại sức mạnh của mình. Và để quay trở lại thế giới phép thuật, chúa tể hắc ám cần đánh bại kẻ duy nhất sống sót sau lời nguyền chết chóc của hắn - Harry Potter. Chính vì thế Harry buộc phải tham gia giải đấu Tam Pháp Thuật đầy những rủi ro và nguy hiểm, cậu hiểu rằng ngoài việc chiến thắng thì cậu còn phải giữ mạng sống trước những trở ngại sắp tới. ',
     chuong: Book4,
   },
   {
-    name: 'Harrypotter và hội phượng hoàng',
+    name: 'Harrypotter và mệnh lệnh phượng hoàng',
     image: require('../../assets/harrypotter5.jpg'),
+    discription:
+      ' Trong kỳ nghỉ hè tại gia đình dượng Dursley trước khi bước vào kỳ học thứ 5 tại Hongwarts, Harry không nhận được nhiều tin tức từ thế giới phù thủy, cậu cũng đã bực tức vì Voldemort vừa mới sống dậy mà hai người bạn của cậu là Hermione và Ron cứ úp mở trong các bức thư họ gửi. Một ngày nọ khi từ công viên trở về, Harry bị một nhóm giám ngục từ Azkaban tấn công, tuy nhiên cậu đã đẩy lùi chúng với phép Patronus. Một người hàng xóm đến yêu cầu giúp đỡ Harry và cho cậu biết rằng bà đã được pháp sư Albus Dumbledore yêu cầu canh chừng cậu. Khi về đến nhà, cậu nhận được lá thư bị đuổi khỏi trường vì học sinh không được phép dùng pháp thuật khi còn dưới tuổi và phải ra tòa tại Bộ Pháp thuật để giải thích cho hành động của mình.',
     chuong: Book5,
   },
   {
     name: 'Harrypotter và hoàng tử lai',
     image: require('../../assets/harrypotter6.jpg'),
+    discription:
+      ' Đây là năm thứ 6 của Harry Potter tại trường Hogwarts. Trong lúc những thế lực hắc ám của Voldemort gieo rắc nỗi kinh hoàng và sợ hãi ở khắp nơi, mọi chuyện càng lúc càng trở nên rõ ràng hơn đối với Harry, cậu sẽ sớm phải đối diện với định mệnh của mình. Draco Malfoy, kẻ thù không đội trời chung của Harry, có nhiều hành động khả nghi, luôn lén lút đi khắp trường. Vì thế, Harry cho rằng Draco là nội gián của Voldermort và quyết tâm tìm hiểu chính xác chuyện gì đang xảy ra...',
     chuong: Book6,
   },
   {
     name: 'Harrypotter và bảo bối tử thần ',
     image: require('../../assets/harrypotter8.jpg'),
+    discription:
+      ' Khi phép bảo vệ cho Harry tại gia đình Dursley hết hiệu lực vào thời điểm Harry bước qua tuổi 17, người của hội phượng hoàng đã đến mang cậu đi tới nơi an toàn. Dù hội đã ngụy trang thành 6 người giống Harry để đảm bảo an toàn cho cậu nhưng Harry thật vẫn bị Voldemort và tay chân của hắn phát hiện, cậu bị tấn công nhưng may mắn thay cậu đã cùng một số người nữa chạy thoát được về trang trại sóc. Trong tiệc cưới của Bill và Fleur, thần hộ mệnh của Kingsley Shacklebolt đã xuất hiện và thông báo rằng bộ Pháp Thuật đã bị sụp đổ, tay chân của Voldemort đã chiếm lấy toàn bộ thế giới pháp thuật và bọn Tử Thần thực tử đang trên đường tới...',
     chuong: Book7,
   },
 ];

@@ -5,7 +5,7 @@ import {View, Text, Image, FlatList, Button} from 'react-native';
 import styles from './style';
 
 const Book = ({route, navigation}) => {
-  const {nameb, imageb, chuong, discription} = route.params;
+  const {imageb, chuong, discription} = route.params;
   return (
     <View style={styles.bookContainer}>
       <View style={styles.bookInfor}>
