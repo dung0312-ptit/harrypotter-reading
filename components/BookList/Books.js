@@ -2,10 +2,10 @@
 import Book1 from '../ChooseChapter/Book1';
 import Book2 from '../ChooseChapter/Book2';
 import Book3 from '../ChooseChapter/Book3';
-import Book4 from '../ChooseChapter/Book3';
-import Book5 from '../ChooseChapter/Book3';
-import Book6 from '../ChooseChapter/Book3';
-import Book7 from '../ChooseChapter/Book3';
+import Book4 from '../ChooseChapter/Book4';
+import Book5 from '../ChooseChapter/Book5';
+import Book6 from '../ChooseChapter/Book6';
+import Book7 from '../ChooseChapter/Book7';
 export default [
   {
     name: 'Harrypotter và hòn đá phù thủy',

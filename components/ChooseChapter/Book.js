@@ -1,13 +1,6 @@
 /* eslint-disable prettier/prettier */
 import React from 'react';
-import {
-  View,
-  Text,
-  Image,
-  FlatList,
-  TouchableOpacity,
-  Button,
-} from 'react-native';
+import {View, Text, Image, FlatList, Button} from 'react-native';
 
 import styles from './style';
 
