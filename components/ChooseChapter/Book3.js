@@ -6,7 +6,7 @@ export default [
   },
   {
     name: '2',
-    image: require('../../chapters/book3/h3_c1.pdf'),
+    image: require('../../chapters/book3/h3_c2.pdf'),
   },
   {
     name: '3',

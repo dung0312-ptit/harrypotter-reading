@@ -2,6 +2,10 @@
 import Book1 from '../ChooseChapter/Book1';
 import Book2 from '../ChooseChapter/Book2';
 import Book3 from '../ChooseChapter/Book3';
+import Book4 from '../ChooseChapter/Book3';
+import Book5 from '../ChooseChapter/Book3';
+import Book6 from '../ChooseChapter/Book3';
+import Book7 from '../ChooseChapter/Book3';
 export default [
   {
     name: 'Harrypotter và hòn đá phù thủy',
@@ -27,17 +31,21 @@ export default [
   {
     name: 'Harrypotter và chiếc cốc lửa',
     image: require('../../assets/harrypotter4.jpg'),
+    chuong: Book4,
   },
   {
     name: 'Harrypotter và hội phượng hoàng',
     image: require('../../assets/harrypotter5.jpg'),
+    chuong: Book5,
   },
   {
     name: 'Harrypotter và hoàng tử lai',
     image: require('../../assets/harrypotter6.jpg'),
+    chuong: Book6,
   },
   {
     name: 'Harrypotter và bảo bối tử thần ',
     image: require('../../assets/harrypotter8.jpg'),
+    chuong: Book7,
   },
 ];
