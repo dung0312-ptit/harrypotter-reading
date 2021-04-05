@@ -1,6 +1,7 @@
 /* eslint-disable prettier/prettier */
 import Book1 from '../ChooseChapter/Book1';
 import Book2 from '../ChooseChapter/Book2';
+import Book3 from '../ChooseChapter/Book3';
 export default [
   {
     name: 'Harrypotter và hòn đá phù thủy',
@@ -19,6 +20,9 @@ export default [
   {
     name: 'Harrypotter và tên tù nhân ngục Azkaban',
     image: require('../../assets/harrypotter3.jpg'),
+    discription:
+      'Harry Potter và tên tù nhân ngục Azkaban là phần tiếp theo của series được chuyển thể từ bộ tiểu thuyết cùng tên của nhà văn J.K Rowling. Bộ phim lấy bối cảnh vào thời điểm Harry kết thúc năm học thứ 2 và trở về nhà dượng, nhưng cậu không ngờ mình sẽ phải đối mặt với cô Marge. Bà Marge đã dùng những lời chế nhạo, xúc phạm và khinh bỉ Harry khiến cậu bị tổn thương, trong phút nóng giận cậu đã không kiểm soát được bản thân và thổi phồng bà Marge, khiến bà ta bị bay lơ lửng giữa không trung. Sau khi trấn tĩnh lại, cậu lo sợ sẽ bị nhốt lại nên đã chạy ra khỏi ngôi nhà toàn mang lại những điều phiền phức ấy.Sau khi lên chuyến xe bus hiệp sĩ, cậu đã tình cờ nghe được câu chuyện về Sirius Black, một tên phù thủy giết người hàng loạt vừa thoát khỏi ngục Azkaban, và những cai tù là giám ngục đang lùng sục hắn.',
+    chuong: Book3,
   },
   {
     name: 'Harrypotter và chiếc cốc lửa',
@@ -33,11 +37,7 @@ export default [
     image: require('../../assets/harrypotter6.jpg'),
   },
   {
-    name: 'Harrypotter và bảo bối tử thần part 1',
+    name: 'Harrypotter và bảo bối tử thần ',
     image: require('../../assets/harrypotter8.jpg'),
-  },
-  {
-    name: 'Harrypotter và bảo bối tử thần part 2',
-    image: require('../../assets/harrypotter7.jpg'),
   },
 ];
